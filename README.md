@@ -1,4 +1,6 @@
-### Hi there 👋
+<img alt="GIF" align="right" src="https://giphy.com/gifs/hackernoon-hacker-noon-random-pixels-dxn6fRlTIShoeBr69N">via GIPHY</a></p>" width="480px" height="480" />
+
+### Привет, всем! 👋
 
 <!--
 **metgen/metgen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
