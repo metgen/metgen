@@ -1,4 +1,4 @@
-<img alt="GIF" align="right" src="https://giphy.com/gifs/hackernoon-hacker-noon-random-pixels-dxn6fRlTIShoeBr69N" width="480px" height="480" />
+<img alt="GIF" align="right" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHZweWwxOHhocnd1aWNjM2owcWRnaG93M3F5M205Y3F2Mml3ZXU2NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dxn6fRlTIShoeBr69N/giphy.gif)" width="480px" height="480" />
 
 ### Привет, всем! 👋
 
