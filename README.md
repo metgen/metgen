@@ -1,4 +1,4 @@
-<img alt="GIF" align="right" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHZweWwxOHhocnd1aWNjM2owcWRnaG93M3F5M205Y3F2Mml3ZXU2NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dxn6fRlTIShoeBr69N/giphy.gif" width="350px" height="350" />
+<img alt="GIF" align="right" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHZweWwxOHhocnd1aWNjM2owcWRnaG93M3F5M205Y3F2Mml3ZXU2NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dxn6fRlTIShoeBr69N/giphy.gif" width="300px" height="300" />
 
 ### Привет, всем! 👋
 
