@@ -4,7 +4,7 @@
 - 💻 Посетите мой блог [metalnikovg.ru](https://metalnikovg.ru)
 - 🌱 В свободное время изучаю различные IT технологии
 - 🐧 Пытаюсь постичь Linux
-- 👨‍💻 Делаяю для себя различные open-source проекты [github.com/metgen](https://github.com/metgen)
+- 👨‍💻 Делаю для себя различные open-source проекты [github.com/metgen](https://github.com/metgen)
 
 ## 📫 Контакты
 [<img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>](mailto:metalnikov.gennadiy@gmail.com)&emsp;
