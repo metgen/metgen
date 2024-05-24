@@ -1,23 +1,22 @@
-<img alt="GIF" align="right" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHZweWwxOHhocnd1aWNjM2owcWRnaG93M3F5M205Y3F2Mml3ZXU2NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dxn6fRlTIShoeBr69N/giphy.gif" width="300px" height="300" />
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=256&section=header&text=Hello%20World!&fontSize=75&animation=fadeIn&fontAlignY=38&desc=Welcome%20to%20my%20GitHub%20profile!%20Put%20stars,%20fork%20and%20contribute!&descAlignY=51&descAlign=62)
+## Hi there 👋
+- 💻 Check out my blog at [metalnikovg.ru](https://metalnikovg.ru)
+- 🌱 In my free time I study various IT technologies
+- 🐧 Like learning Linux
+- 👨‍💻 Check out my [repositories](https://github.com/metgen?tab=repositories)
 
-## Привет, всем! 👋
-- 💻 Посетите мой блог [metalnikovg.ru](https://metalnikovg.ru)
-- 🌱 В свободное время изучаю различные IT технологии
-- 🐧 Пытаюсь постичь Linux
-- 👨‍💻 Делаю для себя различные open-source проекты [github.com/metgen](https://github.com/metgen)
-
-## 📫 Контакты
+## 📫 Contact me via:
 [<img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>](mailto:metalnikov.gennadiy@gmail.com)&emsp;
 [<img alt="VK" src="https://img.shields.io/badge/вконтакте-%232E87FB.svg?&style=for-the-badge&logo=vk&logoColor=white"/>](https://vk.com/gennadii_m)&emsp;
 [<img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>](https://t.me/gennadiy_m)&emsp;
 
-## :zap: Статистика GitHub
+## :zap: GitHub Stats
 <p align="center">
   <img src='https://github.com/metgen/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only'>&emsp;
   <img src='https://github.com/metgen/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only'>
 </p>
 
-## 📈 Мои активности
+## 📈 My Activities
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/metgen/metgen/output/github-contribution-grid-snake-dark.svg">
