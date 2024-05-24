@@ -24,6 +24,16 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/metgen/metgen/output/github-contribution-grid-snake.svg">
 </picture>
 
+<br />
+
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=metgen&&style=flat-square" align="center" />
+</div> 
+
+<br />
+
+----
+
 <!--
 **metgen/metgen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
