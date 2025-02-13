@@ -1,8 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=256&section=header&text=Hello%20World!&fontSize=75&animation=fadeIn&fontAlignY=38&desc=Welcome%20to%20my%20GitHub%20profile!%20Put%20stars,%20fork%20and%20contribute!&descAlignY=51&descAlign=62)
 ## Hi there 👋
+- 🏠 I have my own homelab where I conduct experiments, develop and study various OpenSource projects.
+- 🐧 I use and study Linux (my favorite distro is Fedora)
 - 💻 Check out my blog at [metalnikovg.ru](https://metalnikovg.ru)
-- 🌱 In my free time I study various IT technologies
-- 🐧 Like learning Linux
 - 👨‍💻 Check out my [repositories](https://github.com/metgen?tab=repositories)
 
 ## 📫 Contact me via:
