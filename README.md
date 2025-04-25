@@ -7,7 +7,6 @@
 
 ## 📫 Contact me via:
 [<img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>](mailto:metalnikov.gennadiy@gmail.com)&emsp;
-[<img alt="VK" src="https://img.shields.io/badge/вконтакте-%232E87FB.svg?&style=for-the-badge&logo=vk&logoColor=white"/>](https://vk.com/gennadii_m)&emsp;
 [<img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>](https://t.me/gennadiy_m)&emsp;
 
 ## :zap: GitHub Stats
